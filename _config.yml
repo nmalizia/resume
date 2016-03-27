@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "False"
 resume_name:                    "Nicholas Malizia"
 resume_title:                   "Spatial Data Scientist"
 resume_contact_email:
